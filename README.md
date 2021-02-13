@@ -6,4 +6,4 @@
 </p>
 
 # The-Cookbook
-Some of my favorite recepies all in one
+Some of my favorite recipes all in one
