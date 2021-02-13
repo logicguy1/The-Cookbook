@@ -6,7 +6,7 @@
 </p>
 
 # The-Cookbook
-Some of my favorite recipes all in one
+The open source cook book
 
 
 ## Template
