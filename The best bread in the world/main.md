@@ -1,4 +1,7 @@
 # The best bread in the world
+<p align="center">
+<img src="example.png" />
+</p>
 
 Preperation: 15 min | Bake time: 45 minutes
 
