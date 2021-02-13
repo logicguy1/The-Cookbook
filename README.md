@@ -7,3 +7,24 @@
 
 # The-Cookbook
 Some of my favorite recipes all in one
+
+
+## Template
+Feel free to put a PR just follow the template below for your recepie
+
+```md
+# [Name of recepie]
+<p align="center">
+<img src="example.png" />
+</p>
+
+Preperation: [Time]
+
+## Ingredients
+
+## Materials
+
+## Method
+
+## Conclusion
+```
