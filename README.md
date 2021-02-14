@@ -9,12 +9,12 @@
 The open source cook book
 
 ## Table of Contents
-1. [The best bread in the word](https://github.com/logicguy1/The-Cookbook/tree/main/The%20best%20bread%20in%20the%20world)
+* [The best bread in the word](https://github.com/logicguy1/The-Cookbook/tree/main/The%20best%20bread%20in%20the%20world)
 
 ## To do
-* Pizza bread with falafel
-* Lasanga
-* Burger
+[ ] Pizza bread with falafel
+[ ] Lasanga
+[ ] Burger
 
 ## Template
 Feel free to put a PR just follow the template below for your recepie
