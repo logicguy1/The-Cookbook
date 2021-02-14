@@ -14,8 +14,8 @@ Preperation: [Time]
 ### Meatsauce
 * 4 onions
 * a clove of garlic
-* 1 kilo grounded meat
-* 3-4 canns of crushed tomatos
+* 1 kilo ground meat
+* 3-4 cans of crushed tomatos
 * one small can of tomato paste
 * a meat broth cube
 * a bit of milk or sugar
@@ -29,7 +29,7 @@ Preperation: [Time]
 * destroyed nutmeg nut 
 
 ###other
-* mozerala cheese
+* mozzarella cheese
 * dried oregano
 
 ## Materials
@@ -41,8 +41,8 @@ Preperation: [Time]
 ## Method
 ### Step 1 making the pasta dough
   1. mix the flour, eggs and salt on a tabletop
-  2. knead the pasta until it comes together and has an even tekstur
-  3. rap it up in suran rap and store it in the fridge until needed
+  2. knead the pasta until it comes together and has an even texture
+  3. wrap it up in saran wrap and store it in the fridge until needed
   
 ### Step 2 the meat sauce
   1. cut the onions into thin strips and destroy the garlic
@@ -53,21 +53,21 @@ Preperation: [Time]
   6. put the cans with crushed tomatos and tomato paste in the pot
   7. put in the broth cube in
   8. put a bit of milk or sugar in to make it sweet and thereby making the tomato taste better
-  9. you can just let it be on ow heat, just remember to stir it
+  9. you can just let it be on low heat, just remember to stir it
   
 ### step 3 the bechamel sauce
   1. melt the butter
   2. put in flour a bit at a time while whipping the sauce
   3. put in milk a bit at a time till you think it has the right consistency
   4. put salt, peper and nutmeg in
-  5. let it stand on low heat while you do the last stuff, remember to whip it and if it gets to thick puor some milk in
+  5. let it stand on low heat while you do the last stuff, remember to whip it and if it gets to thick pour some milk in
    
 ### step 4 make the pasta
-  1. roll the pasta to thin plates about a milimeter if you can, useing a pasta maker here will make it easier
+  1. roll the pasta to thin plates about a milimeter if you can, using a pasta maker here will make it easier
   
 ### step 5 make the lasagna
   1. take the baking pan and put meatsauce in, then pasta plates to cover it all, you can then keep doing that and add bechamel sauce to every second layers
-  2. when you run out of ingrideints or reach the top of the pan cover it with some meatsauce and put cheese and oregano on top
+  2. when you run out of ingredients or reach the top of the pan cover it with some meatsauce and put cheese and oregano on top
   3. put it in the oven at 473.15 degrees kelvin (200 degrees celsius), and wait till the surface looks good
 
 ## Conclusion
