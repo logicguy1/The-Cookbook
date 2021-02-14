@@ -8,6 +8,8 @@
 # The-Cookbook
 The open source cook book
 
+## Table of Contents
+1. [The best bread in the word](https://github.com/logicguy1/The-Cookbook/tree/main/The best bread in the world)
 
 ## Template
 Feel free to put a PR just follow the template below for your recepie
