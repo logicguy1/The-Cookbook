@@ -18,6 +18,7 @@ Preperation: 30 minutes
 * Nothing special, just a pan
 
 ## Method
-1. Throw the meat on a hot pan with the oil
+1. Start by forming the steaks, they should be big enguh to at least cover the toast bread
+2. Heat up a pan with the oil and cook the steaks untill they are just brown depending on the qualaty of the meat
 
 ## Conclusion
