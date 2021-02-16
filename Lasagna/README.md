@@ -71,4 +71,7 @@ Preperation: [Time]
   3. put it in the oven at 473.15 degrees kelvin (200 degrees celsius), and wait till the surface looks good
 
 ## Conclusion
-you have now made a well tasting lagsaner for around 4-6 people or for you for a few days
+You have now made a well tasting lagsaner for around 4-6 people or for you for a few days
+
+## Descussion
+With a lasanga you can be quite creative, replacing or adding components such as graited carrot etc
