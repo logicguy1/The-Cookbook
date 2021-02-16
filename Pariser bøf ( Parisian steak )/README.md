@@ -3,7 +3,7 @@
 <img src="example.png" />
 </p>
 
-Preperation: 30 minutes
+Preperation and cooking time: 30 minutes
 
 ## Ingredients
 * 800g beef tartare
