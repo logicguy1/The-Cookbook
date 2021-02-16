@@ -1,4 +1,4 @@
-# Pina Colada (Alcohol Free)
+# Piña Colada (Alcohol Free)
 <p align="center">
     There should be a Picture here
 </p>
@@ -22,3 +22,6 @@ Preparation: ~5min per Glass
 4. Pour pineapple juice into glass
 5. Mix until creamy (either with mixer glass or stir it)
 6. Pour into drinking glass and decorate it with pineapple pieces
+
+## Conclusion
+I personally don't have a mixxer glass and use Coconut syrup, a very nice drink for summer.
