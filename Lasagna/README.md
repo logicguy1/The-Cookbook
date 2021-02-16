@@ -74,4 +74,4 @@ Preperation: [Time]
 You have now made a well tasting lagsaner for around 4-6 people or for you for a few days
 
 ## Descussion
-With a lasanga you can be quite creative, replacing or adding components such as graited carrot etc
+With a lasagna you can be quite creative, replacing or adding components such as graited carrot etc
