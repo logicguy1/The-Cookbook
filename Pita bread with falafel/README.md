@@ -29,6 +29,9 @@ Preperation: N/A
 * rasp
 
 ## Materials
+* blender or a stick blender
+* a frying pan
+* lots of bowls, or just one if you're not a lazy bastard
 
 ## Method
 
