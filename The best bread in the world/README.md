@@ -28,3 +28,6 @@ Preperation: 15 min | Bake time: 45 minutes
 
 ## Conclusion
 The best bread in the world is eazy to make and tastes great, it's great as a side dish with a good steak or as a lunch bread with toppings
+
+## Descussion
+You can add alot to the bread, we tried adding 50% rough flour and the bread did not rise properbly. So we recommend only adding up to 20 - 30% max. You can also add seeds such as flaxseed or sunflower seeds
