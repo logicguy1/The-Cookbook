@@ -25,3 +25,5 @@ Preparation: ~5min per Glass
 
 ## Conclusion
 I personally don't have a mixxer glass and use Coconut syrup, a very nice drink for summer.
+
+### Descussion
