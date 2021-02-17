@@ -26,5 +26,5 @@ Preparation and cooking time: 30 minutes
 ## Conclusion
 You will be presented with a really good "man" dish it might not be something to serve on a first date but for a football night with the boiz there is nothing better
 
-## Descusion
+## Descussion
 You can of cause vary how much meat / garnish to add or remove but i personally think it would be good with some raw chopped red onion
