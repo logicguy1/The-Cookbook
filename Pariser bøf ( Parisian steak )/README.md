@@ -6,7 +6,7 @@
 Preparation and cooking time: 30 minutes
 
 ## Ingredients
-* 800g beef tartare
+* 400g ground beef or beef tatare if you're fancy
 * 4 egg yolks
 * 75g capers
 * 4 table spoons fresh grated horseradish
