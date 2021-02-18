@@ -13,6 +13,11 @@ Preparation and cooking time: 30 minutes
 * 1 - 2 table spoon butter
 * 4 pieces of toast
 
+### Other toppings could include
+* Diced red onion
+* Diced rabede
+* etc
+
 ## Materials
 * Nothing special, just a pan
 
@@ -27,4 +32,4 @@ Preparation and cooking time: 30 minutes
 You will be presented with a really good "man" dish it might not be something to serve on a first date but for a football night with the boiz there is nothing better
 
 ## Descussion
-You can of cause vary how much meat / garnish to add or remove but i personally think it would be good with some raw chopped red onion
+You can of cause vary how much meat / garnish to add or remove depending on you're taste
