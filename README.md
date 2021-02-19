@@ -14,6 +14,7 @@ The open source cook book
 * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
 * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Pina_Colada)
 * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Pita%20bread%20with%20falafel)
+* [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/chokolade%20bread)
 
 ## To do
 - Burger
