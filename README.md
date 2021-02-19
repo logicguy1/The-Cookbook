@@ -20,8 +20,8 @@ The open source cook book
 - Burger
 
 ## Tags
-🌱 - Vegitarian
-🌽 - Gluten Free
+ 🌱 - Vegitarian\n
+ 🌽 - Gluten Free
 
 ## Template
 Feel free to put a PR just follow the template below for your recepie
