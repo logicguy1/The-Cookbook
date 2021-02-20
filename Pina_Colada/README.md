@@ -1,6 +1,6 @@
 # Piña Colada (Alcohol Free)
 <p align="center">
-    There should be a Picture here
+<img src="pina_colata.jpg" />
 </p>
 
 Preparation: ~5min per Glass  
