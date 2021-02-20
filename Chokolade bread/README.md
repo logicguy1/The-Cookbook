@@ -1,4 +1,4 @@
-# chokolade bread
+# Chokolade bread
 <p align="center">
 <img src="example.png" />
 </p>
