@@ -16,8 +16,9 @@ Preparation: 15mins
 * A big bowl
 * A whisk
 * A pan
+* A ladle
 ## Method
-1. Add every ingredients in the bowl and mix.
+1. Add every ingredients in the bowl and mix. <br>
 _Tip_: Put all the liquids first and then pour the flour and the cornstarch in. It'll prevent lumps.
 2. Heat the pan.
 3. Pour 
