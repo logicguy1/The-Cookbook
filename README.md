@@ -12,7 +12,7 @@ The open source cook book
 * Bread
   * [The best bread in the word ](https://github.com/logicguy1/The-Cookbook/tree/main/The%20best%20bread%20in%20the%20world)
 * Main courses
-  * [Lasaangna ](https://github.com/logicguy1/The-Cookbook/tree/main/Lasagna)
+  * [lasagna ](https://github.com/logicguy1/The-Cookbook/tree/main/Lasagna)
   * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
   * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Pita%20bread%20with%20falafel)
 * Drinks
