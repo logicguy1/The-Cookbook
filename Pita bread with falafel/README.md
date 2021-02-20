@@ -9,30 +9,30 @@ Preperation: N/A
 
 ### Pita bread
 * 1200 g flour
-* yeast preferably fresh
+* Yeast preferably fresh
 * 1 dl oil, preferably olive oil
-* a bit of salt
+* A bit of salt
 
 ### Dressing
 * 2 dl yougurt
 * ½ eco lemon
 * Chili powder (optionalt)
-* a clove of garlic
-* a few eaves of fresh parsley
+* A clove of garlic
+* A few eaves of fresh parsley
 
 ### Falaffels
 * 1600 g soaked chicks(peas)
 * 1 onion
-* around 4 cloves of garlic
+* Around 4 cloves of garlic
 * 3 eggs
-* two tsp cumin
-* rasp
+* Two tsp cumin
+* Rasp
 * Your cooking oil of preferance (preferably not olive oil)
 
 ## Materials
-* blender or a stick blender
-* a frying pan
-* lots of bowls, or just one if you're not a lazy bastard
+* Hlender or a stick blender
+* A frying pan
+* Lots of bowls, or just one if you're not a lazy bastard
 * Some paiper towl
 
 ## Method
