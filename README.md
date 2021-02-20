@@ -15,6 +15,7 @@ The open source cook book
 * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Pina_Colada)
 * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Pita%20bread%20with%20falafel)
 * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/chokolade%20bread)
+* [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Tiramisu)
 
 ## To do
 - Burger
