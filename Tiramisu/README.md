@@ -1,6 +1,6 @@
 # [Matcha Tiramisu]
 <p align="center">
-<img src="example.png" />
+<img src="tiramisu.jpg" />
 </p>
 
 Preperation: 1h
