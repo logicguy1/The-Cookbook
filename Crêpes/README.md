@@ -21,8 +21,9 @@ Preparation: 15mins
 1. Add every ingredients in the bowl and mix. <br>
 _Tip_: Put all the liquids first and then pour the flour and the cornstarch in. It'll prevent lumps.
 2. Heat the pan.
-3. Pour a ladle of the mix in the pan and 
+3. Pour a ladle of the mix in the pan and spread the liquid by moving the pan around.
+4. Flip the crêpe around when bubbles appears on the top 
 ## Conclusion
 Crêpes is one of the easiest recipe I've ever tried. And it is good.
 ## Discussion
-I recommend 
+I recommend putting some sugar on top of your crêpe and then fold it, it is my personal favorite. But you can pretty much put anything on your crêpes, even salty things like cheese or ham! Be creative!
