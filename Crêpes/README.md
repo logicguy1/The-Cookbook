@@ -25,4 +25,4 @@ _Tip_: Put all the liquids first and then pour the flour and the cornstarch in. 
 ## Conclusion
 Crêpes is one of the easiest recipe I've ever tried. And it is good.
 ## Discussion
-I recomme
+I recommend 
