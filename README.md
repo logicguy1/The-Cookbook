@@ -11,10 +11,11 @@ The open source cook book
 ## Table of Contents
 * Bread
   * [The best bread in the word ](https://github.com/logicguy1/The-Cookbook/tree/main/The%20best%20bread%20in%20the%20world)
-* [Lasaangna ](https://github.com/logicguy1/The-Cookbook/tree/main/Lasagna)
-* [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
+* Main courses
+  * [Lasaangna ](https://github.com/logicguy1/The-Cookbook/tree/main/Lasagna)
+  * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
+  * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Pita%20bread%20with%20falafel)
 * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Pina_Colada)
-* [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Pita%20bread%20with%20falafel)
 * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/chokolade%20bread)
 * [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Tiramisu)
 
