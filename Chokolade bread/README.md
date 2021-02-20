@@ -16,12 +16,12 @@ Preperation: [Time]
 
 ### Extra
 * Decoration for the cake like nuts or sprinkle
-* you can use egg white brush on the cake before putting it in the oven
+* You can use egg white brush on the cake before putting it in the oven
 
 ## Materials
 * A bowl
 * An oven
-* a baking tray
+* A baking tray
 
 ## Method
 1. Mix the dry ingredients
