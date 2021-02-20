@@ -15,7 +15,8 @@ The open source cook book
   * [Lasaangna ](https://github.com/logicguy1/The-Cookbook/tree/main/Lasagna)
   * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
   * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Pita%20bread%20with%20falafel)
-* [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Pina_Colada)
+* Drinks
+  * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Pina_Colada)
 * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/chokolade%20bread)
 * [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Tiramisu)
 
