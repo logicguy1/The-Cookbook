@@ -1,9 +1,9 @@
-# [Matcha Tiramisu]
+# Matcha Tiramisu
 <p align="center">
 <img src="tiramisu.jpg" />
 </p>
 
-Preperation: 1h
+Preparation: 1h
 
 ## Ingredients
 * 1kg mascarpone
