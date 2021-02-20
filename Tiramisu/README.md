@@ -3,7 +3,7 @@
 <img src="example.png" />
 </p>
 
-Preperation: [1h]
+Preperation: 1h
 
 ## Ingredients
 * 1kg mascarpone
@@ -26,14 +26,16 @@ Preperation: [1h]
 4. Beat the egg whites until it triples in volume. Don't beat them up for too long! Once it is foamy, you have to stop.
 5. Add half of the egg whites to the mascarpone mix.
 6. Mix gently. Be careful not to break the egg whites, use a spatula!
-7. Add the other half and mix again. Once it's homogenous, you can start the assembly.
-8. First, fill the regular bowl with rose water (you don't have to feel it entirely but just enough for dipping).
-9. Dip a finger biscuit in and put it in the bottom of your container. Repeat until you covered the bottom entirely.
-10. Pour some cream in the glass. One or two tablespoons should be enough.
-11. Put one or two teaspoons of berries (or strawberries).
-12. Repeat steps 9 and 10.
-13. Add some berries (or strawberries) on top for decoration.
+7. Add the other half and mix again.
+8. Once it's homogenous, add 2 teaspoons of matcha powder. Taste the cream and see if you like it. You can add a few more if you find it not strong enough. But be aware that matcha powder has a strong taste and is very bitter!
+9. First, fill the regular bowl with rose water (you don't have to feel it entirely but just enough for dipping).
+10. Dip a finger biscuit in and put it in the bottom of your container. Repeat until you covered the bottom entirely.
+11. Pour some cream in the glass. One or two tablespoons should be enough.
+12. Put one or two teaspoons of berries (or strawberries).
+13. Repeat steps 9 and 10.
+14. Add some berries (or strawberries) on top for decoration.
 Done!
 ## Conclusion
-
+Matcha Tiramisu is a recipe that needs some basic cooking knowledge but stays easy to make once you've understood the technique.
 ## Descussion
+The original tiramisu recipe has 6 eggs. I changed it because the cream had a weird texture, it was too thick and didn't feel good in your mouth. By putting 2 more eggs, the cream gains in texture and becomes more light and more pleasant. 
