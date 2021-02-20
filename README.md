@@ -25,11 +25,11 @@ The open source cook book
 - Burger
 
 ## Tags
-* 🌱 - Vegitarian
+* 🌱 - Vegetarian
 * 🌽 - Gluten Free
 
 ## Template
-Feel free to put a PR just follow the template below for your recepie
+Feel free to put a PR just follow the template below for your recipe
 
 ```md
 # [Name of recepie]
@@ -47,5 +47,5 @@ Preperation: [Time]
 
 ## Conclusion
 
-## Descussion
+## Discussion
 ```
