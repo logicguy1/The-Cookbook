@@ -13,12 +13,14 @@ Preparation: 1h
 * Matcha powder (japanese green tea)
 * Rose water 
 * Berries or strawberries
+
 ## Materials
 * Electronic whisk 
 * Glass containers (it can be simple glasses)
 * Spatula
 * 2 big bowls
 * 1 regular bowl
+
 ## Method
 1. Take the big bowls. Separate the whites from the yolks. Be careful, even a small piece of yolk in the white could mess up the recipe! 
 2. Leave the whites on the side for now. Add the sugar in the yolks. Beat the yolks until it turns white and double in volume.
@@ -35,7 +37,9 @@ Preparation: 1h
 13. Repeat steps 9 and 10.
 14. Add some berries (or strawberries) on top for decoration.
 Done!
+
 ## Conclusion
 Matcha Tiramisu is a recipe that needs some basic cooking knowledge but stays easy to make once you've understood the technique.
+
 ## Descussion
 The original tiramisu recipe has 6 eggs. I changed it because the cream had a weird texture, it was too thick and didn't feel good in your mouth. By putting 2 more eggs, the cream gains in texture and becomes more light and more pleasant. 
