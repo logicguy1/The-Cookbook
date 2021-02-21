@@ -36,5 +36,5 @@ Preperation: [Time]
 ## Conclusion
 You have lots of small well tasting cakes congrats
 
-## Descussion
-You can add more or less cocoa powder according to your taste, you can add pretty much anything as topping or just nothing.
+## Discussion
+You can add more or less cocoa powder according to your taste, you can add pretty much anything as topping or just nothing. You can also use 150 grams almond flour instead of flour.
