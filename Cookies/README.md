@@ -4,7 +4,7 @@
 <img src="example.png" />
 </p>
 
-Preperation: 45mins Cooking: 15mins
+Preparation: 45mins Bake time: 15mins
 
 ## Ingredients
 
