@@ -4,7 +4,7 @@
 <img width=40% src="cookies.jpg" />
 </p>
 
-Preparation: 45mins Bake time: 15mins
+Preparation: 45mins Bake time: 10-15mins
 
 ## Ingredients
 * 370g flour
@@ -25,8 +25,14 @@ Preparation: 45mins Bake time: 15mins
 _Tip_ : If you don't have half-salt butter, put regular butter instead and add 1 teaspoon of coarse salt
 2. Add vanilla powder (I usually put 1 teaspoon but it's up to you to decide how much you want to put in) and the egg. Mix again.
 3. Add the flour and mix.
-4. Put your dough aside and cut your chocolate in pieces. Cut your hazelnuts in half and add everything in your dough.
-5. 
+4. Turn on your oven and put the thermostat at 160° (if your oven is old, you might need to put it at 180°)
+5. Put your dough aside and cut your chocolate in pieces.
+6. Cut your hazelnuts in half and add them with the chocolate in the dough. Mix everything together.
+7. With a tablespoon, make a ball of dough. It should be the size of a ping pong ball (but you can change the size if you want).
+8. Put it on your oven plate and with the palm of your hand, flatten the ball. No need to flatten it too much, the dough will spread in the oven. Therefore, be careful and put some space between every dough bit.
+9. Place your plate once you're done placing the dough. Let it bake for 10mins. <br>
+_Tip_ : If your cookies seem to be raw after 10mins, let them bake 2 or 3 more minutes. It's better to not let them cooke too much so they can be soft on the inside and crunchy on the outside
+<p align="center"> Enjoy! </p>
 ## Conclusion
 Cookies are pretty long to make but you can be creative and "personnalize" them as much as you want. They're also very nice to eat after school (or work) or during a hike...You can enjoy them everywhere!
 ## Discussion
