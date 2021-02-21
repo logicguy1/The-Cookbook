@@ -18,7 +18,7 @@ The open source cook book
 * Drinks
   * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Pina_Colada)
 * Desserts
-  * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/chokolade%20bread)
+  * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/Chokolade%20bread)
   * [Crêpes](https://github.com/logicguy1/The-Cookbook/tree/main/Cr%C3%AApes)
   * [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Tiramisu)
 
