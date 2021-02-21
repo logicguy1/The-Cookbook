@@ -1,5 +1,5 @@
 # Chef's cookies
-### _A cookie recipe taken from Jean-François Piège, a french chef!_
+<h3 align="center"><i> A cookie recipe taken from Jean-François Piège, a french chef!</i></h3>
 <p align="center">
 <img width=40% src="cookies.jpg" />
 </p>
@@ -21,8 +21,12 @@ Preparation: 45mins Bake time: 15mins
 * An oven
 * A big bowl
 ## Method
-1. Cut the butter in slices and put it in the bowl with the sugar. <br>
-_Tip_
+1. Cut the butter in slices and put it in the bowl with the sugar. Mix. <br>
+_Tip_ : If you don't have half-salt butter, put regular butter instead and add 1 teaspoon of coarse salt
+2. Add vanilla powder (I usually put 1 teaspoon but it's up to you to decide how much you want to put in) and the egg. Mix again.
+3. Add the flour and mix.
+4. Put your dough aside and cut your chocolate in pieces. Cut your hazelnuts in half and add everything in your dough.
+5. 
 ## Conclusion
 Cookies are pretty long to make but you can be creative and "personnalize" them as much as you want. They're also very nice to eat after school (or work) or during a hike...You can enjoy them everywhere!
 ## Discussion
