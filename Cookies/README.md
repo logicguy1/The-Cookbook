@@ -16,10 +16,12 @@ Preparation: 45mins Bake time: 10-15mins
 * 170g white sugar
 * 200g chocolate (pick your favorite type)
 * 40g hazelnuts
+
 ## Materials
 * A Pastry robot (or your hands)
 * An oven
 * A big bowl
+
 ## Method
 1. Cut the butter in slices and put it in the bowl with the sugar. Mix. <br>
 _Tip_ : If you don't have half-salt butter, put regular butter instead and add 1 teaspoon of coarse salt.
@@ -33,8 +35,10 @@ _Tip_ : If you don't have half-salt butter, put regular butter instead and add 1
 9. Place your plate once you're done placing the dough. Let it bake for 10mins. <br>
 _Tip_ : If your cookies seem to be raw after 10mins, let them bake 2 or 3 more minutes. It's better to not let them cook too much so they can be soft on the inside and crunchy on the outside ;D
 <p align="center"> Enjoy! </p>
+
 ## Conclusion
 Cookies are pretty long to make but you can be creative and "personnalize" them as much as you want. They're also very nice to eat after school (or work) or during a hike...You can enjoy them everywhere!
+
 ## Discussion
 I personnaly don't put baking powder in my cookie dough because I don't like the taste it gives to my cookies, try with and without it and see what's the best for your taste buds! ;) <br>
 
