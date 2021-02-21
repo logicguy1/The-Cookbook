@@ -20,6 +20,7 @@ The open source cook book
 * Desserts
   * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/Chokolade%20bread)
   * [Crêpes](https://github.com/logicguy1/The-Cookbook/tree/main/Cr%C3%AApes)
+  * [Cookies](https://github.com/logicguy1/The-Cookbook/tree/main/Cookies)
   * [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Tiramisu)
 
 ## To do
