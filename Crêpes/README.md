@@ -1,6 +1,6 @@
 # Crêpes
 <p align="center">
-<img src="example.png" />
+<img src="example.jpg" />
 </p>
 
 Preparation: 15mins
