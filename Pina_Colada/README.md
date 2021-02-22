@@ -5,6 +5,8 @@
 
 Preparation: ~5min per Glass  
 
+Author: Sebbl#2222
+
 ## Ingredients
 - 30ml Coconut syrup/cream/milk (either one)
 - 120ml Pineapple Juice
