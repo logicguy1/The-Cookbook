@@ -5,6 +5,8 @@
 
 Preparation and cooking time: 30 minutes
 
+Author: Drillenissen#4268
+
 ## Ingredients
 * 400g ground beef or beef tatare if you're fancy
 * 4 egg yolks
