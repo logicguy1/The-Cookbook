@@ -5,6 +5,8 @@
 
 Preparation: 1h
 
+Author: nouille#2370
+
 ## Ingredients
 * 1kg mascarpone
 * 8 egg yolks and 8 egg whites
