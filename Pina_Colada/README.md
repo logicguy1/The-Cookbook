@@ -5,7 +5,8 @@
 
 Preparation: ~5min per Glass  
 
-Author: Sebbl#2222
+Author:  
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Sebbl%232222-25?style=for-the-badge&logo=discord" /> </a>
 
 ## Ingredients
 - 30ml Coconut syrup/cream/milk (either one)
