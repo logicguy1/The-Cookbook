@@ -6,6 +6,7 @@
 Preperation: 20 minutes
 
 Author:
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Drillenissen%234268-25?style=for-the-badge&logo=discord" /> </a>  
 
 ## Ingredients
 ### The Cocktial
