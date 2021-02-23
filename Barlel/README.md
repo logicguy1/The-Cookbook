@@ -1,5 +1,5 @@
 # Barlel
-### Barlel is a moroccan recipe. It looks like pancakes but with several holes, that's why we call it "crêpes with thousand holes" in french. It is often offered to guests when they come to visit you and served with moroccan tea.
+### Barlel is a moroccan recipe. It looks like pancakes but with several holes, that's why we call it "crêpes with thousand holes" in french. It is often offered to guests when they come to visit!
 <p align="center">
 <img src="example.png" />
 </p>
@@ -34,4 +34,5 @@ Preparation: 15mins
 Barlel is a simple recipe which do not need any hard method. Anyone can make it!
 
 ## Discussion
-I personnaly like to use walnut oil instead of olive oil sometimes. It has a whole other taste and will diversify your Barlel! ;D
+I personnaly like to use walnut oil instead of olive oil sometimes. It has a whole other taste and will diversify your Barlel! ;D <br>
+Barlel is good served with moroccan tea. 
