@@ -26,6 +26,7 @@ The open source cook book
   * [Cookies](https://github.com/logicguy1/The-Cookbook/tree/main/Cookies)
   * [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Tiramisu)
   * [Barlel](https://github.com/logicguy1/The-Cookbook/tree/main/Barlel)
+  * [Rasberry slices](https://github.com/logicguy1/The-Cookbook/blob/main/Rasberry%20slices/README.md)
 
 ## To do
 - Burger
