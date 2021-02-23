@@ -71,7 +71,7 @@ Author:
 9. Once the fallafels are done put them on the paiper towls to remove some of the oil
 
 ### Step 4 Baking The Bread
-1. Set the oven to as high as it can go or about 300 - 350 dagrees
+1. Set the oven to as high as it can go or about 573,15 - 623,15 kelvin (300 - 350 degrees celsius)
 2. Put 4 of the 12 - 14 slices of the dough on some baking paiper press them flat or as large as you want the breads
 3. Working fast (migh help with an extra set of hands) you want to put the breads on a baking tray and bake them untill they have formed an air bubble and have browend on the outside this sould only take a few minutes
 4. Reapet this process for all the breads
