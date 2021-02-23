@@ -12,7 +12,7 @@ The open source cook book
 * Bread
   * [The best bread in the word ](https://github.com/logicguy1/The-Cookbook/tree/main/The%20best%20bread%20in%20the%20world)
 * Starters
-  * [Shrip Cocktail](https://github.com/logicguy1/The-Cookbook/tree/main/Shrimp%20Cocktail)
+  * [shrimp Cocktail](https://github.com/logicguy1/The-Cookbook/tree/main/Shrimp%20Cocktail)
 * Main courses
   * [Lasagna ](https://github.com/logicguy1/The-Cookbook/tree/main/Lasagna)
   * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
