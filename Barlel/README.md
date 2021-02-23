@@ -34,5 +34,5 @@ Preparation: 15mins
 Barlel is a simple recipe which do not need any hard method. Anyone can make it!
 
 ## Discussion
-I personnaly like to use walnut oil instead of olive oil sometimes. It has a whole other taste and will diversify your Barlel! ;D <br>
-Barlel is good served with moroccan tea. 
+* I personnaly like to use walnut oil instead of olive oil sometimes. It has a whole other taste and will diversify your Barlel! ;D <br>
+* Barlel is good served with moroccan tea. 
