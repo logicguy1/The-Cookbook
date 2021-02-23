@@ -25,6 +25,7 @@ The open source cook book
   * [Crêpes](https://github.com/logicguy1/The-Cookbook/tree/main/Cr%C3%AApes)
   * [Cookies](https://github.com/logicguy1/The-Cookbook/tree/main/Cookies)
   * [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Tiramisu)
+  * [Barlel](https://github.com/logicguy1/The-Cookbook/tree/main/Barlel)
 
 ## To do
 - Burger
