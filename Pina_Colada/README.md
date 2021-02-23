@@ -26,6 +26,7 @@ Author: Sebbl#2222
 6. Pour into drinking glass and decorate it with pineapple pieces
 
 ## Conclusion
-I personally don't have a mixxer glass and use Coconut syrup, a very nice drink for summer.
+A fairly easy drink to make and it's very nice on a summer day for those who like the combination of dairy and pineapple
 
-### Descussion
+## Discussion
+I myself don't have a mixxer glass, so i just put crushed ice or ice cubes into a normal glass, pour the ingredients over and mix with a straw.
