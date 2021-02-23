@@ -7,7 +7,7 @@ Preperation: [Time]
 
 ## Ingredients
 
-### dough
+### Dough
 * ½ vanilla bean or 10 grams of vanilla sugar
 * 70 grams of powdered sugar
 * 150 grams of room temperture butter
@@ -15,11 +15,12 @@ Preperation: [Time]
 * 1 tsp of baking soda
 * 70 dl of water
 
-### filling
+### Filling
 * Ca. 200 grams of rasberry marmalade
 
 ### topping
-* 
+* 200 grams powdered sugar
+* A Bit of water
 
 ## Materials
 
@@ -28,3 +29,4 @@ Preperation: [Time]
 ## Conclusion
 
 ## Discussion
+On top of the glaze you can add pretty much anything, personly i like dried rasberrys, but you can also add small pieces of nuts, 
