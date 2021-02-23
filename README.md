@@ -44,6 +44,8 @@ Feel free to put a PR just follow the template below for your recipe
 
 Preperation: [Time]
 
+Author:
+
 ## Ingredients
 
 ## Materials
