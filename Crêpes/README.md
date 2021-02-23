@@ -5,8 +5,8 @@
 
 Preparation: 15mins
 
-Author: nouille#2370
-
+Author:  
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord" /> </a>  
 ## Ingredients
 * 200g flour T65
 * 50g cornstarch

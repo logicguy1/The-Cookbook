@@ -5,7 +5,8 @@
 
 Preparation and cooking time: 30 minutes
 
-Author: Drillenissen#4268
+Author:  
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Drillenissen%234268-25?style=for-the-badge&logo=discord" /> </a>  
 
 ## Ingredients
 * 400g ground beef or beef tatare if you're fancy
