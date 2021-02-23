@@ -17,6 +17,7 @@ The open source cook book
   * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Pita%20bread%20with%20falafel)
 * Drinks
   * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Pina_Colada)
+  * [Virgin Sunrise](https://github.com/logicguy1/The-Cookbook/tree/main/Virgin_Sunrise)
 * Desserts
   * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/Chokolade%20bread)
   * [Crêpes](https://github.com/logicguy1/The-Cookbook/tree/main/Cr%C3%AApes)
