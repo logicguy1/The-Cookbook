@@ -3,7 +3,7 @@
 <img src="example.png" />
 </p>
 
-Preperation: [Time]
+Preperation: around 30 min work time plus around 50 minutes
 
 ## Ingredients
 
