@@ -5,7 +5,8 @@
 
 Preperation: [Time]
 
-Author: Eden#7480
+Author:  
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Eden%237480-25?style=for-the-badge&logo=discord" /> </a>  
 
 ## Ingredients
 * 300 grams / 5 dl flour
