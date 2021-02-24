@@ -21,7 +21,7 @@ Author:
 ### Filling
 * Ca. 200 grams of rasberry marmalade
 
-### topping
+### Topping
 * 200 grams powdered sugar
 * A Bit of water
 
