@@ -1,6 +1,6 @@
 # Chocolate Cake (Gluten free)
 <p align="center">
-<img src="example.png" />
+<img src="kage.png" />
 </p>
 
 Preperation: 30 minutes Bake: 50 minutes
