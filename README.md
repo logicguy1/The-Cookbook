@@ -28,6 +28,7 @@ The open source cook book
   * [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Tiramisu)
   * [Barlel](https://github.com/logicguy1/The-Cookbook/tree/main/Barlel)
   * [Rasberry slices](https://github.com/logicguy1/The-Cookbook/blob/main/Rasberry%20slices/README.md)
+  * [Chocolate Cake 🌽](https://github.com/logicguy1/The-Cookbook/tree/main/Chocolate%20Cake)
 
 ## Tags
 * 🌱 - Vegetarian
