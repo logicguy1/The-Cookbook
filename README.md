@@ -29,9 +29,6 @@ The open source cook book
   * [Barlel](https://github.com/logicguy1/The-Cookbook/tree/main/Barlel)
   * [Rasberry slices](https://github.com/logicguy1/The-Cookbook/blob/main/Rasberry%20slices/README.md)
 
-## To do
-- Burger
-
 ## Tags
 * 🌱 - Vegetarian
 * 🌽 - Gluten Free
