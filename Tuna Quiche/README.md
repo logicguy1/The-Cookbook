@@ -21,7 +21,7 @@ Author:
 * A pie plate
 * An oven
 ## Method
-
+1. Cut your tomatoe(s) in slices.
 ## Conclusion
 
 ## Discussion
