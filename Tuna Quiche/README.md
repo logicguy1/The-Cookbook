@@ -33,6 +33,7 @@ Author:
 9. Pour in the mix from step 2.
 10. Put your quiche in the oven for 20 to 25mins. Be careful to check if the puff pastry is cooked before turning off your oven!
 <p align="center"> Enjoy! </p>
+
 ## Conclusion
 Quiche are great for moments when you're too lazy to cook food. It's a simple and fast recipe and it's delicious!
 ## Discussion
