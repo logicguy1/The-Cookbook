@@ -31,7 +31,9 @@ Author:
 7. Open the tuna can. Crumble the tuna on the quiche, covering the bottom entirely.
 8. Add the tomatoe slices.
 9. Pour in the mix from step 2.
-10. 
+10. Put your quiche in the oven for 20 to 25mins. Be careful to check if the puff pastry is cooked before turning off your oven!
+<p align="center"> Enjoy! </p>
 ## Conclusion
-
+Quiche are great for moments when you're too lazy to cook food. It's a simple and fast recipe and it's delicious!
 ## Discussion
+You can use this recipe and change the ingredients. For example, instead of making a tuna quiche, you can make a spinach one! Just replace the tuna with cooked spinach and tomatoes with goat cheese. You need to put the sliced goat cheese on top of the spinach, the oven will grill them! ;D
