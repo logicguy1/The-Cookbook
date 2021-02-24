@@ -12,7 +12,7 @@ Author:
 ## Ingredients
 * 4 eggs
 * Milk
-* 1 yogurt or some liquid cream
+* 1 yogurt
 * 1 or 2 tomatoes
 * 1 can of tuna
 * Mustard
@@ -20,8 +20,12 @@ Author:
 ## Materials
 * A pie plate
 * An oven
+* A big bowl
 ## Method
 1. Cut your tomatoe(s) in slices.
+2. Take a big bowl and put the eggs, the yogurt and a little bit of milk. Be careful, do ot put too much milk or it will be too liquid.
+3. Mix everything together.
+4. 
 ## Conclusion
 
 ## Discussion
