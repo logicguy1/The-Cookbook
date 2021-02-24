@@ -16,6 +16,7 @@ Author:
 * 1 or 2 tomatoes
 * 1 can of tuna
 * Mustard
+* A roll of puff pastry
 ## Materials
 * A pie plate
 * An oven
