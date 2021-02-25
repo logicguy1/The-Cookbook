@@ -43,5 +43,7 @@ Author:
 * Let the cake bake for 50 minutes 448 kelvin (175 celsius)
 
 ## Conclusion
+You now have a well tasting gluton free chokolade cake
 
 ## Discussion
+We put cocolate and glaze on top, but you can put whatever you want on top
