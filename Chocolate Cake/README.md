@@ -41,6 +41,10 @@ Author:
 * Chop the chokolade rougfly and add it to the mix
 * Cover your baking tin in baking paper
 * Let the cake bake for 50 minutes 448 kelvin (175 celsius)
+* When you take it out let it cool
+* Make the glaze, you can add cinamon and cocao powder
+* Melt some chocolate in a water bath
+* Pour the chocolate on in small stripes
 
 ## Conclusion
 You now have a well tasting gluton free chokolade cake
