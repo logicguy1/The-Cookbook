@@ -6,8 +6,8 @@
 Preperation: 10-15 minutes
 
 Author:
+
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Eden%237480-25?style=for-the-badge&logo=discord" /> </a>  
-(Replace the '{}' with the responding username or id)
 
 
 ## Ingredients
