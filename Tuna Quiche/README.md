@@ -26,7 +26,7 @@ Author:
 1. Cut your tomatoe(s) in slices.
 2. Take a big bowl and put the eggs, the yogurt and a little bit of milk. Be careful, do not put too much milk or it will be too liquid.
 3. Mix everything together.
-4. Turn on your oven on 200°c.
+4. Turn on your oven on 473° kelvin (200°c).
 5. Take the puff pastry and put it in the pie plate. 
 6. Cover the bottom with mustard. I like to put a lot of mustard as it gives more taste to the quiche.
 7. Open the tuna can. Crumble the tuna on the quiche, covering the bottom entirely.
