@@ -1,4 +1,4 @@
-# [Popcorn in a pot]
+# Popcorn in a pot
 <p align="center">
 <img src="example.png" />
 </p>
@@ -31,4 +31,4 @@ Author:
 You now have pocorn
 
 ## Discussion
-you can put as much salt on as you'd like
+You can put as much salt on as you'd like
