@@ -29,6 +29,7 @@ The open source cook book
   * [Barlel](https://github.com/logicguy1/The-Cookbook/tree/main/Barlel)
   * [Rasberry slices](https://github.com/logicguy1/The-Cookbook/blob/main/Rasberry%20slices/README.md)
   * [Chocolate Cake 🌽](https://github.com/logicguy1/The-Cookbook/tree/main/Chocolate%20Cake)
+* Snacks
   * [Popcorn in a pot](https://github.com/logicguy1/The-Cookbook/tree/main/Popcorn%20in%20a%20pot)
 
 ## Tags
