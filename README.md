@@ -10,7 +10,8 @@
 <img src="assets/icon.png" />
 </p>
 The open source cook book<br/>
-Also take a look at our discord community [Here](https://discord.gg/ZBpscUpNF4)
+Also take a look at our discord community
+<a href="https://discord.gg/ZBpscUpNF4">here</a>
 
 ## Table of Contents
 * Bread
