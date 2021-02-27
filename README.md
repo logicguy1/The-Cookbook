@@ -10,28 +10,28 @@ The open source cook book
 
 ## Table of Contents
 * Bread
-  * [The best bread in the word ](https://github.com/logicguy1/The-Cookbook/tree/main/The%20best%20bread%20in%20the%20world)
+  * [The best bread in the word ](https://github.com/logicguy1/The-Cookbook/tree/main/Bread/The%20best%20bread%20in%20the%20world)
 * Starters
-  * [Shrimp Cocktail 🌽](https://github.com/logicguy1/The-Cookbook/tree/main/Shrimp%20Cocktail)
+  * [Shrimp Cocktail 🌽](https://github.com/logicguy1/The-Cookbook/tree/main/Starters/Shrimp%20Cocktail)
 * Main courses
-  * [Lasagna ](https://github.com/logicguy1/The-Cookbook/tree/main/Lasagna)
-  * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
-  * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Pita%20bread%20with%20falafel)
-  * [Tuna Quiche](https://github.com/logicguy1/The-Cookbook/tree/main/Tuna%20Quiche)
+  * [Lasagna ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Lasagna)
+  * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
+  * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pita%20bread%20with%20falafel)
+  * [Tuna Quiche](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Tuna%20Quiche)
 * Drinks
-  * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Pina_Colada)
-  * [Virgin Sunrise](https://github.com/logicguy1/The-Cookbook/tree/main/Virgin_Sunrise)
-  * [Ginger Shots](https://github.com/logicguy1/The-Cookbook/tree/main/Ginger_Shots)
+  * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Pina_Colada)
+  * [Virgin Sunrise](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Virgin_Sunrise)
+  * [Ginger Shots](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Ginger_Shots)
 * Desserts
-  * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/Chokolade%20bread)
-  * [Crêpes](https://github.com/logicguy1/The-Cookbook/tree/main/Cr%C3%AApes)
-  * [Cookies](https://github.com/logicguy1/The-Cookbook/tree/main/Cookies)
-  * [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Tiramisu)
-  * [Barlel](https://github.com/logicguy1/The-Cookbook/tree/main/Barlel)
-  * [Rasberry slices](https://github.com/logicguy1/The-Cookbook/blob/main/Rasberry%20slices/README.md)
-  * [Chocolate Cake 🌽](https://github.com/logicguy1/The-Cookbook/tree/main/Chocolate%20Cake)
+  * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/Desserts/Chokolade%20bread)
+  * [Crêpes](https://github.com/logicguy1/The-Cookbook/tree/main/Desserts/Cr%C3%AApes)
+  * [Cookies](https://github.com/logicguy1/The-Cookbook/tree/main/Desserts/Cookies)
+  * [Tiramisu](https://github.com/logicguy1/The-Cookbook/tree/main/Desserts/Tiramisu)
+  * [Barlel](https://github.com/logicguy1/The-Cookbook/tree/main/Desserts/Barlel)
+  * [Rasberry slices](https://github.com/logicguy1/The-Cookbook/blob/main/Desserts/Rasberry%20slices/README.md)
+  * [Chocolate Cake 🌽](https://github.com/logicguy1/The-Cookbook/tree/main/Desserts/Chocolate%20Cake)
 * Snacks
-  * [Popcorn in a pot](https://github.com/logicguy1/The-Cookbook/tree/main/Popcorn%20in%20a%20pot)
+  * [Popcorn in a pot](https://github.com/logicguy1/The-Cookbook/tree/main/Snacks/Popcorn%20in%20a%20pot)
 
 ## Tags
 * 🌱 - Vegetarian
