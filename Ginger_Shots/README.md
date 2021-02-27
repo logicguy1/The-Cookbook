@@ -24,7 +24,7 @@ Author:
 
 1. Wash the ginger roots and the apples
 2. Cut off the "woody" ends of the ginger
-3. Remove the core of the Apple
+3. Remove the core of the apples
 4. Slice both the ginger and the apple into small pieces   
 **(The pieces will be blended with their peel on)**
 5. Put the pieces together into the blender
