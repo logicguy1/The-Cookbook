@@ -21,6 +21,7 @@ The open source cook book
 * Drinks
   * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Pina_Colada)
   * [Virgin Sunrise](https://github.com/logicguy1/The-Cookbook/tree/main/Virgin_Sunrise)
+  * [Ginger Shots](https://github.com/logicguy1/The-Cookbook/tree/main/Ginger_Shots)
 * Desserts
   * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/Chokolade%20bread)
   * [Crêpes](https://github.com/logicguy1/The-Cookbook/tree/main/Cr%C3%AApes)
