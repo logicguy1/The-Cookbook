@@ -18,6 +18,7 @@ Also take a look at our discord community
   * [The best bread in the word ](https://github.com/logicguy1/The-Cookbook/tree/main/Bread/The%20best%20bread%20in%20the%20world)
 * Starters
   * [Shrimp Cocktail 🌽](https://github.com/logicguy1/The-Cookbook/tree/main/Starters/Shrimp%20Cocktail)
+  * [Tomato Soup](https://github.com/logicguy1/The-Cookbook/blob/main/Starters/Tomato%20Soup/README.md)
 * Main courses
   * [Lasagna ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Lasagna)
   * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
