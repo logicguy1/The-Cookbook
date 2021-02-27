@@ -6,9 +6,9 @@
 </p>
 
 # The-Cookbook
-<p align="center">
+<!-- <p align="center">
 <img src="assets/icon.png" />
-</p>
+</p> -->
 The open source cook book<br/>
 Also take a look at our discord community
 <a href="https://discord.gg/ZBpscUpNF4">here</a>
