@@ -1,6 +1,6 @@
 # Lasagna
 <p align="center">
-<img src="example.png" />
+<img src=lasagna.jpg />
 </p>
 
 Preperation: [Time]
