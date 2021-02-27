@@ -1,4 +1,5 @@
 <p align="center">
+<img src="assets/icon.png" />
 <img src=https://img.shields.io/github/issues/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=informational />
 <img src=https://img.shields.io/github/license/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=informational />
 <img src=https://img.shields.io/github/stars/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=blue />
