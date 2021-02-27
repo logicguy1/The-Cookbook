@@ -1,6 +1,6 @@
 # Raspberry slices
 <p align="center">
-<img src="example.png" />
+<img src=hindbærsnitter.jpg />
 </p>
 
 Preperation: around 30 min work time plus around 50 minutes
