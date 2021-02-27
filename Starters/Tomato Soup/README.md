@@ -15,7 +15,7 @@ Author:
 * 1 - 2 tsp butter
 * 1 carrot
 * 1 liter canned or freash tomatoes 
-* Slat
+* Salt
 
 ## Materials
 * A large pot
