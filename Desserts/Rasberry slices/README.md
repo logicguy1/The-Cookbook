@@ -38,7 +38,7 @@ Author:
 5. Put them on a baking tray and bake them for ca. 10 minutes at 453.15 kelvin (180 degres celsius) in a convection oven
 6. Mix the topping ingriedents in a small bowl into glaze
 7. After you have finished baking the cake let it cool 
-8. Put a layer og rasbery marmalade on half the pieces
+8. Put a layer (a litle less than half a centimeter) og rasbery marmalade on half the pieces
 9. Put the other half of the pieces on top of the marmalad
 10. Now you have a lot of sandwich like cakes with marmalade in the midde, put glaze on top of them
 
