@@ -33,10 +33,11 @@ Author:
 8. Blend until the mixture is smooth
 9. Put the honey into the blender and pray that most of your kitchen stays clean
 10. Blend until smooth again
-11. Pour the mixture into a container through a sieve
-12. Use a spoon the press out all the juice of the mix
-13. When the mix in the sieve is getting a little more firm put it back to the rest of the puree and mix again
-14. Repeat step 11-13 until all of your puree is drier and more firm and the mix in your other container is more liquid and doesn't have as much pieces in there.
+11. Pour in as much apple juice as you like, if you want it to be more liquid/less spicy
+12. Pour the mixture into a container through a sieve
+13. Use a spoon the press out all the juice of the mix
+14. When the mix in the sieve is getting a little more firm put it back to the rest of the puree and mix again
+15. Repeat step 12-14 until all of your puree is drier and more firm and the mix in your other container is more liquid and doesn't have as much pieces in there.
 
 ## Conclusion
 This is a ***very*** spicy drink which should be enjoyed preferably in a shot glass at the start of a day.   
