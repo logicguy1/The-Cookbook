@@ -11,7 +11,7 @@
 </p>
 The open source cook book<br/>
 Also take a look at our discord community
-<a href="https://discord.gg/ZBpscUpNF4">here</a>
+a href="https://discord.gg/ZBpscUpNF4">here</a>
 
 ## Table of Contents
 * Bread
@@ -56,7 +56,7 @@ Preperation: [Time]
 
 Author:
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-{username}%23{id}-25?style=for-the-badge&logo=discord" /> </a>  
-<(Replace the '{}' with the responding username or id)>
+<!-- (Replace the '{}' with the responding username or id) --!>
 
 
 ## Ingredients
