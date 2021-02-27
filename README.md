@@ -9,7 +9,7 @@
 <p align="center">
 <img src="assets/icon.png" />
 </p>
-The open source cook book  
+The open source cook book<br/>
 Also take a look at our discord community [Here](https://discord.gg/ZBpscUpNF4)
 
 ## Table of Contents
