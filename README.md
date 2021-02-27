@@ -6,7 +6,7 @@
 </p>
 
 # The-Cookbook
-The open source cook book
+The open source cook book  
 Also take a look at our discord community [Here](https://discord.gg/ZBpscUpNF4)
 
 ## Table of Contents
