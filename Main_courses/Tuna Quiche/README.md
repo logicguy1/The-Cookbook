@@ -38,4 +38,5 @@ Author:
 ## Conclusion
 Quiche are great for moments when you're too lazy to cook food. It's simple, fast and delicious!
 ## Discussion
-You can use this recipe and change the ingredients. For example, instead of making a tuna quiche, you can make a spinach one! Just replace the tuna with cooked spinach and tomatoes with goat cheese. You need to put the sliced goat cheese on top of the spinach, the oven will grill them! ;D
+You can use this recipe and change the ingredients. For example, instead of making a tuna quiche, you can make a spinach one! Just replace the tuna with cooked spinach and tomatoes with goat cheese. You need to put the sliced goat cheese on top of the spinach, the oven will grill them! ;D <br>
+If you don't have any yoghurt, you can use heavy cream. 20cl should be enough!
