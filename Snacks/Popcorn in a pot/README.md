@@ -31,4 +31,4 @@ Author:
 You now have pocorn
 
 ## Discussion
-You can put as much salt on as you'd like
+You can put as much salt on as you'd like and you can probably do lots of other stuff, quite easy so expirimenting isn't to hard.
