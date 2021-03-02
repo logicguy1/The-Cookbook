@@ -47,12 +47,12 @@ Also take a look at our discord community
 Feel free to put a PR just follow the template below for your recipe
 
 ```md
-# [Name of recepie]
+# [Name of recipe]
 <p align="center">
 <img src="example.png" />
 </p>
 
-Preperation: [Time]
+Preparation: [Time]
 
 Author:
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-{username}%23{id}-25?style=for-the-badge&logo=discord" /> </a>  
