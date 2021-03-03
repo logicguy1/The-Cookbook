@@ -3,8 +3,7 @@
 <img src="tiramisu.jpg" />
 </p>
 
-Preparation: 1h
-
+Preparation: 1h  
 Author:  
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord" /> </a>
 
