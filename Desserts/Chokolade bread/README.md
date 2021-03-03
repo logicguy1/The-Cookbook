@@ -3,8 +3,7 @@
 <img src="example.png" />
 </p>
 
-Preperation: [Time]
-
+Preperation: [Time]  
 Author:  
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Eden%237480-25?style=for-the-badge&logo=discord" /> </a>  
 
