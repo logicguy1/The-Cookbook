@@ -3,8 +3,7 @@
 <img src=hindbærsnitter.jpg />
 </p>
 
-Preperation: around 30 min work time plus around 50 minutes
-
+Preperation: around 30 min work time plus around 50 minutes  
 Author:
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Eden%237480-25?style=for-the-badge&logo=discord" /> </a>  
 
