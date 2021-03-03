@@ -3,8 +3,7 @@
     <img src="shots.jpg"/>
 </p>
 
-Preparation: ~15min
-
+Preparation: ~15min  
 Author:  
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Sebbl%232222-25?style=for-the-badge&logo=discord" /> </a>
 
