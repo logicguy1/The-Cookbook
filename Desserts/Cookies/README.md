@@ -4,8 +4,7 @@
 <img width=40% src="cookies.jpg" />
 </p>
 
-Preparation: 45mins Bake time: 10-15mins
-
+Preparation: 45mins Bake time: 10-15mins  
 Author:  
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord" /> </a>  
 
