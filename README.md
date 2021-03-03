@@ -13,7 +13,7 @@ The open source cook book<br/>
 Also take a look at our discord community
 <a href="https://discord.gg/ZBpscUpNF4">here</a>
 
-## Table of Contents 
+## Table of Contents
 * Bread
   * [The best bread in the word ](https://github.com/logicguy1/The-Cookbook/tree/main/Bread/The%20best%20bread%20in%20the%20world)
 * Starters
