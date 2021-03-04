@@ -29,7 +29,7 @@ Author:
 1. Mix the dry ingredients
 2. Cut the butter in small piesces and put it in the bowl
 3. Put the egg in and mix it till it's on whole dough
-4. Roll the dough until the diameter is roughfly 3 cm whit a lengt that fits your baking tray
+4. Roll the peaces dough until the diameter is roughfly 3 cm whit a length that fits your baking tray
 5. Tap the dough to make it a bit flatter
 6. You can brush the bread with egg white or milk, and put on decorations
 7. Bake the bread 10 minutes at 448 degrees kelvin (175 celsius)
