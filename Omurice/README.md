@@ -60,7 +60,7 @@ Omurice isn't too hard to make except for the final steps, you might break your 
 I like to add sesame seeds and provencal herbs to my omelette. You can add whatever you like in your eggs :)) <br>
 I know that japanese like to pour mayonnaise instead of ketchup on top of their omurice sometimes. Try both and you'll see which one is your fav! :D <br>
 If the pan technique is too hard for you, you can use a bowl to make your omurice:
-  * Gently put your omelette in a bowl (be careful not to break it)
-  * Judging from the size of your bowl, add a few spoons of rice. There should be enough place to fold your omelette on top.
-  * Fold the borders of your omelette to close everything.
-  * Put your bowl upside down on a plate and voilà!
+* Gently put your omelette in a bowl (be careful not to break it)
+* Judging from the size of your bowl, add a few spoons of rice. There should be enough place to fold your omelette on top.
+* Fold the borders of your omelette to close everything.
+* Put your bowl upside down on a plate and voilà!
