@@ -39,4 +39,4 @@ Author:
 You have lots of small well tasting cakes congrats
 
 ## Discussion
-You can add more or less cocoa powder according to your taste, you can add pretty much anything as topping or just nothing. You can also use 150 grams almond flour instead of flour.
+You can add more or less cocoa powder according to your taste, you can add pretty much anything as topping or just nothing. i haven't tried it myself but i have been told you can use 150 grams almond flour instead of flour.
