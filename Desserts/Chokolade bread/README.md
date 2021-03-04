@@ -13,7 +13,7 @@ Author:
 * 200 grams / 2½ dl sukker
 * 1 tsp vanilla sugar
 * 4 tbsk cocao powder
-* 200 gram kold butter
+* 200 gram room temperature butter
 * 2 egg
 
 ### Extra
