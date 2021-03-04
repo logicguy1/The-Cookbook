@@ -1,6 +1,6 @@
 # Chokolade bread
 <p align="center">
-<img src=chokoadeBread.jpg />
+<img src=chokoladeBread.jpg  />
 </p>
 
 Preperation: 25 minutes Bake: 15 minutes  
