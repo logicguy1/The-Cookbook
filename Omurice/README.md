@@ -1,6 +1,6 @@
 <h1> Omurice </h1>
 <p align="center">
-<img width=20% src="hoh.jpg" />
+<img width=30% src="hoh.jpg" />
 </p>
 
 Preparation: 45mins
