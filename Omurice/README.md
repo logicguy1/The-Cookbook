@@ -1,4 +1,4 @@
-# Omurice
+<h1> Omurice </h1>
 <p align="center">
 <img src="hoh.jpg" />
 </p>
@@ -10,7 +10,7 @@ Author:
 <!-- (Replace the '{}' with the responding username or id) --!>
 
 
-## Ingredients
+<h2> Ingredients </h2>
 
 * Risotto rice
 * Chicken breast
@@ -26,12 +26,12 @@ Author:
 * Ginger (powder)
 * Ketchup
 
-## Materials
+<h2> Materials </h2>
 
 * 2 frying pans
 * 2 bowls
 
-## Method
+<h2> Method </h2>
 
 1. In a bowl, pour olive oil (I would say at least 3 tablespoons), half a teaspoon of salt, cumin, paprika and ginger. Mix.
 2. Add the chicken breast in and soak it in the mix. Flip the chicken breast and put the mix everywhere on the meat. Cover the bowl and put it in the fridge for 20mins.
@@ -51,11 +51,11 @@ Author:
 16. Add some ketchup on top.
 <p align="center"> Enjoy! </p>
 
-## Conclusion
+<h2> Conclusion </h2>
 
 Omurice isn't too hard to make except for the final steps, you might break your omelette quite a few times. With some practice, these steps won't be a problem anymore!
 
-## Discussion
+<h2> Discussion </h2>
 
 I like to add sesame seeds and provencal herbs to my omelette. You can add whatever you like in your eggs :)) <br>
 I know that japanese like to pour mayonnaise instead of ketchup on top of their omurice sometimes. Try both and you'll see which one is your fav! :D <br>
