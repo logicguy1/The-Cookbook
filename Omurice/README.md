@@ -56,7 +56,8 @@ Author:
 
 <h2> Conclusion </h2>
 
-Omurice isn't too hard to make except for the final steps, you might break your omelette quite a few times. With some practice, these steps won't be a problem anymore! It's also a good recipe for when you have some rice leftovers. ;)
+Omurice isn't too hard to make except for the final steps, you might break your omelette quite a few times. With some practice, these steps won't be a problem anymore! <br>
+It's also a good recipe for when you have some rice leftovers. ;)
 
 <h2> Discussion </h2>
 
