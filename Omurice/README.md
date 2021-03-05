@@ -12,20 +12,21 @@ Author:
 
 <h2> Ingredients </h2>
 
-* Risotto rice
-* Chicken breast
-* Mushrooms
-* 2 eggs
-* 1 onion
-* Salt
-* Tabasco sauce
-* Tomato sauce
-* Olive oil
-* Paprika
-* Cumin
-* Ginger (powder)
-* Ketchup
-
+<ol>
+  <li>Risotto rice</li>
+<li>Chicken breast</li>
+<li>Mushrooms</li>
+<li>2 eggs</li>
+<li>1 onion</li>
+<li>Salt</li>
+<li>Tabasco sauce</li>
+<li>Tomato sauce</li>
+<li>Olive oil</li>
+<li>Paprika</li>
+<li>Cumin</li>
+<li>Ginger (powder)</li>
+<li>Ketchup</li>
+</ol>
 <h2> Materials </h2>
 
 * 2 frying pans
