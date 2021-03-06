@@ -4,8 +4,7 @@
 </p>
 
 Preparation: 45mins
-
-Author:
+Author:  
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord" /> </a>  
 <!-- (Replace the '{}' with the responding username or id) --!>
 
