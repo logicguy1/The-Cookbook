@@ -24,6 +24,7 @@ Also take a look at our discord community
   * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
   * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pita%20bread%20with%20falafel)
   * [Tuna Quiche](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Tuna%20Quiche)
+  * [Omurice](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Omurice)
 * Drinks
   * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Pina_Colada)
   * [Virgin Sunrise](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Virgin_Sunrise)
