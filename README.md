@@ -53,9 +53,8 @@ Feel free to put a PR just follow the template below for your recipe
 <img src="example.png" />
 </p>
 
-Preparation: [Time]
-
-Author:
+Preparation: [Time]  
+Author:  
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-{username}%23{id}-25?style=for-the-badge&logo=discord" /> </a>  
 <!-- (Replace the '{}' with the responding username or id) --!>
 
