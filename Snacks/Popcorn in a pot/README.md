@@ -3,10 +3,8 @@
 <img src="example.png" />
 </p>
 
-Preperation: 10-15 minutes
-
-Author:
-
+Preperation: 10-15 minutes  
+Author:  
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Eden%237480-25?style=for-the-badge&logo=discord" /> </a>  
 
 
