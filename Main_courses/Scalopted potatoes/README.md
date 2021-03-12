@@ -6,7 +6,6 @@
 Preparation: [Time]  
 Author:  
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Eden%237480-25?style=for-the-badge&logo=discord" /> </a>  
-<!-- (Replace the '{}' with the responding username or id) --!>
 
 ## Ingredients
 - 2 kilo potatoes if the peel is pretty enough to be used else 2.5 kilo
