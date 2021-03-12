@@ -30,8 +30,11 @@ Author:
 8. Salt and peper shall you now give to the potatoes
 9. Put the last portion of potatoes in
 10. Pour the cream onto the potatoes
+11. But it in the oven at 180 degrees for 1,5 - 2 hours
+12. If the potatoes 
 
 ## Conclusion
 
 
 ## Discussion
+It tastes really good if you have meat in the oven above the potatoes, the tempreture the meat needs take priority, since the potatoes doesn't need to be made at 180 degrees
