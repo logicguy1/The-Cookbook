@@ -31,10 +31,10 @@ Author:
 9. Put the last portion of potatoes in
 10. Pour the cream onto the potatoes
 11. But it in the oven at 180 degrees for 1,5 - 2 hours
-12. If the potatoes 
+12. If the potatoes turn darkbrown on top and they aren't close to being finished stir them
 
 ## Conclusion
-
+If you followed the instructions correctly you now have a lot of potatoe slices covered in cream and other stuff
 
 ## Discussion
 It tastes really good if you have meat in the oven above the potatoes, the tempreture the meat needs take priority, since the potatoes doesn't need to be made at 180 degrees
