@@ -29,6 +29,7 @@ Also take a look at our discord community
   * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Pina_Colada)
   * [Virgin Sunrise](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Virgin_Sunrise)
   * [Ginger Shots](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Ginger_Shots)
+  * [Mojito](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Mojito)
 * Desserts
   * [Chocolate Bread](https://github.com/logicguy1/The-Cookbook/tree/main/Desserts/Chokolade%20bread)
   * [Crêpes](https://github.com/logicguy1/The-Cookbook/tree/main/Desserts/Cr%C3%AApes)
