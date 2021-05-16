@@ -1,4 +1,4 @@
-# [Name of recipe]
+# Mojito
 <p align="center">
 <img src="example.png" />
 </p>
