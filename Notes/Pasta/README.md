@@ -18,9 +18,9 @@ The kneading should _not go like with a bread dough_ but by folding a small amou
 When the kneading is done, cut the doguh into 4 and wrap 3 of the peaces tightly in wrap. Press the remaing dough peace into the heigh of about 1 - 1.5 cm
 Feed it into the pasta roller on the `level 1` setting. When done fold it like the pixel art below
 ```
-/********
-\*******\
-********/
+                                |                                   |   ********\
+                                |   /********                       |   /*******|
+********* ********* *********   |   \******** *********             |   \*******/
 ```
 And put it thoguth the machine, you can trun it 90 dagrees every time. Once the dough forms a rectangle you can contineue by putting it to level 2 and running it thought 2 times, make sure the dough does not get too sticky if so add flour to each side of the dough. Repeat untill you get to level 6. If the dought gets too long and becomes unconfortable to handle cut it.
 
