@@ -27,7 +27,7 @@ Author: Niruvibes <br>
   A wok
   a curved thingy
 <h2> Method </h2>
-  <img src="example.png" />
+  <img src="image.png" />
 <h2> Conclusion </h2>
   It tastes pretty good
 <h2> Discussion </h2>
