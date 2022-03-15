@@ -25,6 +25,7 @@ Also take a look at our discord community
   * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pita%20bread%20with%20falafel)
   * [Tuna Quiche](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Tuna%20Quiche)
   * [Omurice](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Omurice)
+  * [Egg Fried Rice](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Egg%20Fried%20Rice)
 * Drinks
   * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Pina_Colada)
   * [Virgin Sunrise](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Virgin_Sunrise)
@@ -57,7 +58,7 @@ Feel free to put a PR just follow the template below for your recipe
 Preparation: [Time]  
 Author:  
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-{username}%23{id}-25?style=for-the-badge&logo=discord" /> </a>  
-<!-- (Replace the '{}' with the responding username or id) --!>
+<!-- (Replace the '{}' with the responding username or id) REMEMBER TO REMOVE THIS LINE ONCE YOU MAKE THE FILE!!!--!>
 
 
 ## Ingredients
