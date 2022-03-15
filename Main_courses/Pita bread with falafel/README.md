@@ -12,6 +12,7 @@ Author:
 ## Ingredients
 
 ### Pita bread
+* 7 dL water
 * 1200 g flour
 * Yeast preferably fresh
 * 1 dl oil, preferably olive oil
