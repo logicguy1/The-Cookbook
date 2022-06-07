@@ -13,14 +13,14 @@ Author:
 
 
 ## Ingredients
-*Crust ingredients
+<i>Crust ingredients</i>
 <br>100g tea biscuit
 100g speculoos biscuit
 65g butter
 2g coarse salt
 Nutmeg (optional)
 <br>
-*Filling ingredients
+<i>Filling ingredients</i>
 <br> 900g cream cheese
 200g sugar
 4 eggs +1 egg white
@@ -30,7 +30,7 @@ Nutmeg (optional)
 20g cornstarch
 A pinch of salt
 <br>
-*Strawberry jam ingredients
+<i>Strawberry jam ingredients</i>
 <br>
 
 ## Materials
