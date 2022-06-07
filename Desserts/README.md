@@ -1,4 +1,4 @@
-# NYC Cheesecake
+# NYC Strawberry Cheesecake
 I usually crave for some cheesecake at the beginning of each summer. However, my cheesecakes usually ended up being too dense. I therefore tried to find the perfect cheesecake recipe. This is when I found Joshua Weissman's recipe. It is simply perfect, I will link his video if you want to go check it out. I did make some changes though, for my own taste (and maybe yours).
 <p align="center">
 <img src="example.png" />
@@ -10,9 +10,14 @@ Preparation: [Time]
 Author:
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord" /> </a>  
 
-###Crust ingredients
+
 
 ## Ingredients
+<ul>Crust ingredients</ul>
+100g tea biscuit
+100g speculoos biscuit
+<ul>Filling ingredients</ul>
+<ul>Strawberry jam ingredients</ul>
 
 ## Materials
 
