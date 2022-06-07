@@ -21,7 +21,7 @@ Author:
 <br>Nutmeg (optional)
 <br>
 <i>Filling ingredients</i>
-<br><div style="line-height: 150%"> 900g cream cheese
+<br> <div style="line-height: 150%"> 900g cream cheese
 <br>200g sugar
 <br>4 eggs +1 egg white
 <br>60g fromage blanc (similar to quark)
@@ -47,7 +47,7 @@ Author:
   4. Pour the biscuits in the mold and press with a flat glass. <br>
   5. Place in the oven for 8mins, then let it cool completely. <br>
 <i>Jam method</i>
-<br><div style="line-height: 150%"> 1. Cut the strawberries in halves and put in a medium pot with the sugar.
+<br><div style="line-height: 150%"> 1. Cut the strawberries in halves and put in a medium pot with the sugar.<br>
   2. Mix and let sit for 15mins. <br>
   3. Turn on medium heat. Let it cook for 10mins, stir regularly. <br>
   <i>Filling method</i>
