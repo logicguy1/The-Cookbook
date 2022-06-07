@@ -35,10 +35,14 @@ Author:
 <br> 100g sugar
 
 ## Materials
-<br> Round modl (around 22cm)
-<br>
+<br> Round mold (around 22cm)
+<br> Electric whisk
+<br> Big bowl
 
 ## Method
+<i>Crust method</i>
+<br> <div style="line-height: 150%"> 1. Preheat the oven at 160°c
+  2. 
 
 ## Conclusion
 
