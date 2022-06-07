@@ -3,9 +3,9 @@ I usually crave for some cheesecake at the beginning of each summer. However, my
 <p align="center">
 <img src="example.png" />
 </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YKI8TcaRdbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/thatthingonvideourl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Preparation: 40mins Cooking time: 2hrs15mins
+Preparation: 40mins Cooking time: 2 hours and 15 mins
 
 Author:
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord" /> </a>  
