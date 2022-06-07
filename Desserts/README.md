@@ -5,7 +5,7 @@ I usually crave for some cheesecake at the beginning of each summer. However, my
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YKI8TcaRdbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
-Preparation: [Time]
+Preparation: 40mins Cooking time: 2hrs15mins
 
 Author:
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord" /> </a>  
@@ -18,7 +18,7 @@ Author:
 <br>100g speculoos biscuit
 <br>65g butter
 <br>2g coarse salt
-<br>Nutmeg (optional
+<br>Nutmeg (optional)
 <br>
 #### Filling ingredients
 <br>900g cream cheese
