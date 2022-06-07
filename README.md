@@ -1,5 +1,4 @@
 <p align="center">
-<img src="assets\the_cookbook.png">
 <img src=https://img.shields.io/github/issues/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=informational />
 <img src=https://img.shields.io/github/license/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=informational />
 <img src=https://img.shields.io/github/stars/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=blue />
@@ -8,7 +7,7 @@
 
 # The-Cookbook
 <p align="center">
-<img src="assets/banniere-thecookbook.png" />
+<img src="assets\the_cookbook.png">
 </p>
 The open source cook book<br/>
 Also take a look at our discord community
