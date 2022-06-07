@@ -41,13 +41,13 @@ Author:
 
 ## Method
 <i>Crust method</i>
-<br><div style="line-height: 150%"> 1. Preheat the oven at 160°c. <br>
-  2. Finely crush the biscuits in a bowl and mix in sugar, nutmeg and salt.
+<br><div style="line-height: 150%"> 1. Preheat the oven at 160°c.
+  2. Finely crush the biscuits in a bowl and mix in sugar, nutmeg and salt.<br>
   3. Add melted butter and mix. <br>
   4. Pour the biscuits in the mold and press with a flat glass. <br>
   5. Place in the oven for 8mins, then let it cool completely. <br>
 <i>Jam method</i>
-<br><div style="line-height: 150%"> 1. Cut the strawberries in halves and put in a medium pot with the sugar.<br>
+<br><div style="line-height: 150%"> 1. Cut the strawberries in halves and put in a medium pot with the sugar.
   2. Mix and let sit for 15mins. <br>
   3. Turn on medium heat. Let it cook for 10mins, stir regularly. <br>
   <i>Filling method</i>
