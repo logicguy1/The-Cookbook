@@ -21,7 +21,7 @@ Author:
 <br>Nutmeg (optional)
 <br>
 <i>Filling ingredients</i>
-<br> 900g cream cheese
+<br><div style="line-height: 150%"> 900g cream cheese
 <br>200g sugar
 <br>4 eggs +1 egg white
 <br>60g fromage blanc (similar to quark)
@@ -31,9 +31,12 @@ Author:
 <br>A pinch of salt
 <br>
 <i>Strawberry jam ingredients</i>
-<br>
+<br><div style="line-height: 150%"> 450g strawberries
+<br> 100g sugar
 
 ## Materials
+<br> Round modl (around 22cm)
+<br>
 
 ## Method
 
