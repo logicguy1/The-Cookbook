@@ -7,7 +7,7 @@
 
 # The-Cookbook
 <p align="center">
-<img src="assets\the_cookbook.png">
+<img src="assets\the_cookbook.png" width=100 height=auto>
 </p>
 The open source cook book<br/>
 Also take a look at our discord community
