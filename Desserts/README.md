@@ -19,6 +19,7 @@ Author:
 <br>65g butter
 <br>2g coarse salt
 <br>Nutmeg (optional)
+<br>
 <ul>Filling ingredients</ul>
 900g cream cheese
 <br>200g sugar
@@ -28,6 +29,7 @@ Author:
 <br>7g vanilla
 <br>20g cornstarch
 <br>A pinch of salt
+<br>
 <ul>Strawberry jam ingredients</ul>
 
 ## Materials
