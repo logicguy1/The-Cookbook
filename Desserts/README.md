@@ -67,4 +67,4 @@ Author:
 ### Tips for the strawberry jam
 Take about 1/3 of your jam and blend it, then mix your blended strawberries to the rest of jam.
 ### Variation
-I personnally like to replace strawberries by blueberries. In this case, I highly recommend adding rose water. It is just so good and goes very well with blueberries. However, you should dilute a teaspoon of cornstarch in a glass filled with any amount of rose water you want. It will prevent the jam from becoming too liquid.
+I personnally like to replace strawberries by blueberries. In this case, I highly recommend adding rose water to your jam. It is just so good and goes very well with blueberries. However, you should dilute a teaspoon of cornstarch in a glass filled with any amount of rose water you want. It will prevent the jam from becoming too liquid.
