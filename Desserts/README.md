@@ -14,7 +14,7 @@ Author:
 
 ## Ingredients
 <i>Crust ingredients</i>
-<br>100g tea biscuit
+<br div style="line-height: 150%/> 100g tea biscuit
 <br>100g speculoos biscuit
 <br>65g butter
 <br>2g coarse salt
