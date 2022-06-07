@@ -15,7 +15,7 @@ Author:
 ## Ingredients
 <ul>Crust ingredients</ul>
 100g tea biscuit
-100g speculoos biscuit
+<br>100g speculoos biscuit
 <ul>Filling ingredients</ul>
 <ul>Strawberry jam ingredients</ul>
 
