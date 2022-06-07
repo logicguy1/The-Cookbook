@@ -53,16 +53,16 @@ Author:
   <i>Filling method</i>
 <div style="line-height: 150%"> 1. Mix cream cheese with sugar in a bowl until creamy.
   2. Add the eggs one by one, ending with the egg yolk. <br>
-  3. Once fully incorporated, add fromage blanc, whole liquid cream, salt, vanilla and cornstarch.
+  3. Once fully incorporated, add fromage blanc, whole liquid cream, salt, vanilla and cornstarch.<br>
  <i>Assembling</i>
 <div style="line-height: 150%"> 1. Grease the sides of your mold.
-  2. Pour the filling over the fully cooled down crust.
-  3. Put the cheesecake on an oven plate and fill it with boiling water. It should come up around 2cm of your mold's sides. Be careful, if you use a springform pan you should add tin foil to the bottom while making sure it covers more than 2cm of the sides. Otherwise, water will get in your cake (and we don't want that).
-  3. Put everything in the preheated oven (160°c) for 1 hour 30mins. The cheesecake must be set but slightly jiggly.
-  4. Turn off the oven and let sit for 45mins, with the oven door open
-  5. Take the cheesecake out and let it cool.
-  6. Add the strawberry jam on top.
-  7. Let sit for 2-3 days in the fridge.
+  2. Pour the filling over the fully cooled down crust.<br>
+  3. Put the cheesecake on an oven plate and fill it with boiling water. It should come up around 2cm of your mold's sides. Be careful, if you use a springform pan you should add tin foil to the bottom while making sure it covers more than 2cm of the sides. Otherwise, water will get in your cake (and we don't want that).<br>
+  3. Put everything in the preheated oven (160°c) for 1 hour 30mins. The cheesecake must be set but slightly jiggly.<br>
+  4. Turn off the oven and let sit for 45mins, with the oven door open<br>
+  5. Take the cheesecake out and let it cool.<br>
+  6. Add the strawberry jam on top.<br>
+  7. Let sit for 2-3 days in the fridge.<br>
 
 ## Conclusion
 
