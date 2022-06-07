@@ -43,15 +43,26 @@ Author:
 <i>Crust method</i>
 <div style="line-height: 150%"> 1. Preheat the oven at 160°c. <br>
   2. Finely crush the biscuits in a bowl and mix in sugar, nutmeg and salt.
-  3. Add melted butter and mix.
-  4. Pour the biscuits in the mold and press with a flat glass.
-  5. Place in the oven for 8mins, then let it cool completely.
+  3. Add melted butter and mix. <br>
+  4. Pour the biscuits in the mold and press with a flat glass. <br>
+  5. Place in the oven for 8mins, then let it cool completely. <br>
 <i>Jam method</i>
 <div style="line-height: 150%"> 1. Cut the strawberries in halves and put in a medium pot with the sugar.
-  2. Mix and let sit for 15mins.
-  3. Turn on medium heat. Let it cook for 10mins, stir regularly.
+  2. Mix and let sit for 15mins. <br>
+  3. Turn on medium heat. Let it cook for 10mins, stir regularly. <br>
   <i>Filling method</i>
-<div style="line-height: 150%"> 1.
+<div style="line-height: 150%"> 1. Mix cream cheese with sugar in a bowl until creamy.
+  2. Add the eggs one by one, ending with the egg yolk. <br>
+  3. Once fully incorporated, add fromage blanc, whole liquid cream, salt, vanilla and cornstarch.
+ <i>Assembling</i>
+<div style="line-height: 150%"> 1. Grease the sides of your mold.
+  2. Pour the filling over the fully cooled down crust.
+  3. Put the cheesecake on an oven plate and fill it with boiling water. It should come up around 2cm of your mold's sides. Be careful, if you use a springform pan you should add tin foil to the bottom while making sure it covers more than 2cm of the sides. Otherwise, water will get in your cake (and we don't want that).
+  3. Put everything in the preheated oven (160°c) for 1 hour 30mins. The cheesecake must be set but slightly jiggly.
+  4. Turn off the oven and let sit for 45mins, with the oven door open
+  5. Take the cheesecake out and let it cool.
+  6. Add the strawberry jam on top.
+  7. Let sit for 2-3 days in the fridge.
 
 ## Conclusion
 
