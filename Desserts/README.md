@@ -8,7 +8,7 @@ I usually crave for some cheesecake at the beginning of each summer. However, my
 Preparation: [Time]
 
 Author:
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-{nouille}%23{2370}-25?style=for-the-badge&logo=discord" /> </a>  
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-nouille%2370-25?style=for-the-badge&logo=discord" /> </a>  
 (Replace the '{}' with the responding username or id)
 
 
