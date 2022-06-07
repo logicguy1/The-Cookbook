@@ -5,10 +5,10 @@ I usually crave for some cheesecake at the beginning of each summer. However, my
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YKI8TcaRdbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
-Preperation: [Time]
+Preparation: [Time]
 
 Author:
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-{username}%23{id}-25?style=for-the-badge&logo=discord" /> </a>  
+<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-{nouille}%23{2370}-25?style=for-the-badge&logo=discord" /> </a>  
 (Replace the '{}' with the responding username or id)
 
 
