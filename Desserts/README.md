@@ -13,14 +13,14 @@ Author:
 
 
 ## Ingredients
-### Crust ingredients
+#### Crust ingredients
 <br>100g tea biscuit
 <br>100g speculoos biscuit
 <br>65g butter
 <br>2g coarse salt
 <br>Nutmeg (optional
 <br>
-### Filling ingredients
+#### Filling ingredients
 <br>900g cream cheese
 <br>200g sugar
 <br>4 eggs +1 egg white
@@ -30,7 +30,7 @@ Author:
 <br>20g cornstarch
 <br>A pinch of salt
 <br>
-### Strawberry jam ingredients
+#### Strawberry jam ingredients
 <br>450g strawberries
 <br> 100g sugar
 
