@@ -16,7 +16,18 @@ Author:
 <ul>Crust ingredients</ul>
 100g tea biscuit
 <br>100g speculoos biscuit
+<br>65g butter
+<br>2g coarse salt
+<br>Nutmeg (optional)
 <ul>Filling ingredients</ul>
+900g cream cheese
+<br>200g sugar
+<br>4 eggs +1 egg white
+<br>60g fromage blanc (similar to quark)
+<br>60mL whole liquid fresh cream (30%)
+<br>7g vanilla
+<br>20g cornstarch
+<br>A pinch of salt
 <ul>Strawberry jam ingredients</ul>
 
 ## Materials
