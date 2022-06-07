@@ -64,6 +64,4 @@ Author:
   6. Add the strawberry jam on top.<br>
   7. Let sit for 2-3 days in the fridge.<br>
 
-## Conclusion
-
 ## Discussion
