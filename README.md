@@ -26,6 +26,7 @@ Also take a look at our discord community
   * [Tuna Quiche](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Tuna%20Quiche)
   * [Omurice](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Omurice)
   * [Egg Fried Rice](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Egg%20Fried%20Rice)
+  * [Pasta Meatsauce](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pasta%20Meatsauce)
 * Drinks
   * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Pina_Colada)
   * [Virgin Sunrise](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Virgin_Sunrise)
