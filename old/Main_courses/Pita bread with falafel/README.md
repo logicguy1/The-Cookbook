@@ -58,7 +58,7 @@ Author:
 4. Cut the parsley fine and mix in aswell
 5. Optinally you can add some chilipowder or chili flakes to your likeing
 
-**Note: ** You might want to cook the fallafels while baking the bread
+**Note:** You might want to cook the fallafels while baking the bread
 
 ### Step 3 The Fallafel Dough
 1. Find a large bowl and pour in the chickpeas (without the water)
