@@ -1,3 +1,5 @@
+import time
+
 from .cli_utility import cli_utility
 from .utils import Utils
 
@@ -34,7 +36,7 @@ class Recipie:
         self.portions = ""
 
         self.ingredients = []
-        self.method = []
+        self.directions = []
 
     def __repr__(self):
         return f"<Recipie {self.title}>"
@@ -48,6 +50,9 @@ class Recipie:
         out += "## Ingredients  \n"
         for i in self.ingredients:
             out += f" - {i.get_name()}  \n"
+        out += "\n## Method  \n"
+        for i, item in zip(range(len(self.directions)), self.directions):
+            out += f"{i+1}. {item}  \n"
 
         return out
 
@@ -75,6 +80,8 @@ class Recipie:
                 self.edit_meta()
             elif choice == "Ingredients":
                 self.edit_ingredient()
+            elif choice == "Materials":
+                self.edit_materials()
             elif choice == "Method":
                 self.edit_method()
             elif choice == "Exit":
@@ -214,9 +221,52 @@ class Recipie:
             utils.clear()
             print(self.get_str())
 
-            
+            choices = [i for i in self.directions] + ["Create new", "Create new after exsisting", "Exit"]
+            title = 'Choose a direction'
+              
+            selected = menu.show(title, choices)
+            choice = selected
+            print(choice, selected, len(self.directions))
+            print()
+
+            # If the user selects "new direction"
+            if choice == len(self.directions):
+                logger.print(logger.print_string_constructor(
+                    'Create a new direction', 
+                    '[?] ',
+                    cli_utility.colorama.Fore.LIGHTBLUE_EX,
+                ))
+
+                direction = input("> ")
+                self.directions.append(direction)
+
+            # If user selectes "Create after"
+            elif choice == len(self.directions)+1:
+                choices = [i for i in self.directions] + ["Exit"]
+                title = 'Where do you want the new direction (after selected element)'
+                  
+                selected = menu.show(title, choices)
+                choice = selected
+                logger.print(logger.print_string_constructor(
+                    'Create a new direction', 
+                    '[?] ',
+                    cli_utility.colorama.Fore.LIGHTBLUE_EX,
+                ))
+
+                direction = input("> ")
+                self.directions.insert(choice+1, direction)
+
+            # If user selectes "Exit"
+            elif choice == len(self.directions)+2:
+                return
 
 
+            logger.print(logger.print_string_constructor(
+                'Edit the direction.', 
+                '[?] ',
+                cli_utility.colorama.Fore.LIGHTBLUE_EX,
+            ))
+            self.directions[choice] = utils.input("> ", self.directions[choice])
             
 
 

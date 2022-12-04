@@ -1,1 +1,1 @@
-cli_utility
+colorama>=0.4.1
