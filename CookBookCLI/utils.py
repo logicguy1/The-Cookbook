@@ -30,3 +30,10 @@ class Utils:
 
     def clear(self):
         os.system('cls' if os.name == 'nt' else 'clear')
+
+    def clamp_up(self, num1: int, num2: int) -> int:
+        return max((num1, num2))
+
+    def get_size(self) -> tuple:
+        size = os.get_terminal_size()
+        return size.columns, size.lines

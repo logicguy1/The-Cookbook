@@ -1,1 +1,125 @@
-[]
+{
+  "Crepes": {
+    "meta": {
+      "author": "Nouille#2370",
+      "category": "Desserts",
+      "cook_time": "About 15 miuntes",
+      "portions": "Can feed 2-3 people"
+    },
+    "ingredients": [
+      {
+        "name": "Flour T65",
+        "amount": "200",
+        "unit": "grams"
+      },
+      {
+        "name": "Cornstarch",
+        "amount": "50",
+        "unit": "grams"
+      },
+      {
+        "name": "eggs",
+        "amount": "2",
+        "unit": "peaces"
+      },
+      {
+        "name": "Milk",
+        "amount": "50",
+        "unit": "cl"
+      },
+      {
+        "name": "Salt",
+        "amount": "1",
+        "unit": "pinch"
+      },
+      {
+        "name": "Melted butter",
+        "amount": "50",
+        "unit": "grams"
+      }
+    ],
+    "materials": [
+      "A big bowl",
+      "A wisk",
+      "A pan",
+      "A ladle"
+    ],
+    "method": [
+      "Add every ingredients in the bowl and mix.  \\n*Tip*: Put all the liquids first and then pour the flour and the cornstarch in. It'll prevent lumps.",
+      "Heat the pan",
+      "Pour a ladle of the mix in the pan and spread the liquid by moving the pan around.",
+      "Flip the cr\u00eape around when the side on the pan appears brown.",
+      "Wait a minute and put your cr\u00eape on a plate. Done!"
+    ],
+    "conclusion": "Cr\u00eapes is one of the easiest recipe I've ever tried. And it is good.",
+    "discussion": "I recommend putting some sugar on top of your cr\u00eape and then fold it, it is my personal favorite. But you can pretty much put anything on your cr\u00eapes, even salty things like cheese or ham! Be creative!"
+  },
+  "The Chef's cookies": {
+    "meta": {
+      "author": "Nouille#2370",
+      "category": "Desserts",
+      "cook_time": "45mins Bake time: 10-15mins",
+      "portions": "20 cookies"
+    },
+    "ingredients": [
+      {
+        "name": "Flour",
+        "amount": "370",
+        "unit": "grams"
+      },
+      {
+        "name": "Half-salt butter",
+        "amount": "215",
+        "unit": "grams"
+      },
+      {
+        "name": "Eggs",
+        "amount": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "Vanilla sugar",
+        "amount": "15",
+        "unit": "grams"
+      },
+      {
+        "name": "Backing powder",
+        "amount": "1/2",
+        "unit": "packet"
+      },
+      {
+        "name": "Brown sugar",
+        "amount": "200",
+        "unit": "grams"
+      },
+      {
+        "name": "Chocolate (pick your favorite type)",
+        "amount": "200",
+        "unit": "grams"
+      },
+      {
+        "name": "Hazelnuts",
+        "amount": "40",
+        "unit": "grams"
+      }
+    ],
+    "materials": [
+      "A Pastry robot (or your hands)",
+      "An oven",
+      "A big bowl"
+    ],
+    "method": [
+      "Cut the butter in slices and put it in the bowl with the sugar. Mix. \\n Tip : If you don't have half-salt butter, put regular butter instead and add 1 teaspoon of coarse salt.",
+      "Add vanilla powder (I usually put 1 teaspoon but it's up to you to decide how much you want to put in) and the egg. Mix again.",
+      "Add the flour and mix.",
+      "Turn on your oven at 160\u00b0 (if your oven is old, you might need to put it at 180\u00b0).",
+      "Put your dough aside and cut your chocolate in pieces.",
+      "Cut your hazelnuts in half and add them with the chocolate in the dough. Mix everything together.",
+      "With a tablespoon, make a ball of dough. It should be the size of a ping pong ball (but you can change the size if you want).",
+      "Put it on your oven plate and with the palm of your hand, flatten the ball. No need to flatten it too much, the dough will spread in the oven. Therefore, be careful and put some space between every dough bit.",
+      "Place your plate once you're done placing the dough. Let it bake for 10mins. \\n Tip : If your cookies seem to be raw after 10mins, let them bake 2 or 3 more minutes. It's better to not let them cook too much so they can be soft on the inside and crunchy on the outside ;D"
+    ],
+    "conclusion": "Cookies are pretty long to make but you can be creative and \"personnalize\" them as much as you want. They're also very nice to eat after school (or work) or during a hike...You can enjoy them everywhere!",
+    "discussion": "I personnaly don't put baking powder in my cookie dough because I don't like the taste it gives to my cookies, try with and without it and see what's the best for your taste buds! ;)  \\nI also don't like adding that much sugar so I remove the white sugar. Again, see for yourself if you like your cookies very sweet or medium like me :)  \\nThen, when it comes to the chocolate, I like to do 50% milk chocolate and 50% dark chocolate. It balances well between the sweeteness of the milk chocolate and the bitterness of the dark one.  \\nFinally, if you don't have hazelnuts (or you just do not enjoy them) you can replace them with 100g of sesame seeds."
+  }
+}
