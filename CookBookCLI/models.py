@@ -328,7 +328,8 @@ class Recipie:
 
             # If user selectes "Create after"
             elif choice == len(arr)+1:
-                choices = [i for i in arr] + ["Exit"]
+                size = utils.get_size()
+                choices = [i[:size[0] - 6] for i in arr] + ["Exit"]
                 title = 'Where do you want the element (after selected element)'
                   
                 selected = menu.show(title, choices)
