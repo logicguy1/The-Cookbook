@@ -23,7 +23,7 @@ class Utils:
             readline.set_pre_input_hook(hook)
             result = input(prompt)
             readline.set_pre_input_hook()
-            return result
+            return result.replace("\\n", "\n")
         except KeyboardInterrupt:
             readline.set_pre_input_hook()
             raise KeyboardInterrupt

@@ -1,5 +1,7 @@
 import json
 import time
+import os
+import shutil
 
 from .cli_utility import cli_utility
 from .utils import Utils
@@ -28,7 +30,7 @@ class Client:
         last_selected = 0
         while True:
             utils.clear()
-            choices = ['Search', 'View all recipies', 'Compile to markdown', 'Exit']
+            choices = ['Search', 'View all recipies', 'Compile to markdown', 'Write new recipie', 'Exit']
             title = 'What would you like to do?'
               
             selected = menu.show(title, choices, position = last_selected)
@@ -37,6 +39,8 @@ class Client:
             print()
 
             if choice == "Exit":
+                with open(self.path, "w") as file:
+                    json.dump(self.recipies, file)
                 return
             
             elif choice == "Search":
@@ -47,6 +51,9 @@ class Client:
 
             elif choice == "Compile to markdown":
                 self.compile()
+
+            elif choice == "Write new recipie":
+                self.write_new()
 
             else:
                 pass
@@ -119,10 +126,36 @@ class Client:
         self.show_recipies(found + ["Exit"])
 
     def compile(self) -> None:
-        pass
+        shutil.rmtree("recipies/")
+        os.mkdir("recipies/")
         
+        for i in utils.categories:
+            os.mkdir(f"recipies/{i}")
+        
+        for name, data in self.recipies.items():
+            os.mkdir(f"recipies/{data['meta']['category']}/{name}")
 
+            with open(f"recipies/{data['meta']['category']}/{name}/README.md", "w") as file:
+                r = Recipie(name).load_from_json(data)
+                out = r.get_str()
+                out = "\n".join(out.split("\n")[2:])
+                file.write(out)
 
+    def write_new(self):
+        logger.print(logger.print_string_constructor(
+            'What should we call the recipie?', 
+            '[?] ',
+            cli_utility.colorama.Fore.LIGHTBLUE_EX,
+        ))
+        name = utils.input("> ", "")
+        if name in self.recipies:
+            logger.print_error("That recipie already exsists.")
+            utils.wait()
+            return
+
+        r = Recipie(name)
+        r.edit()
+        self.recipies[name] = r.dump_to_json()
 
 
 def test():

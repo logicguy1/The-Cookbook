@@ -306,7 +306,7 @@ class Recipie:
             print(self.get_str())
 
             size = utils.get_size()
-            choices = [i[:size[0] - 6] for i in arr] + ["Create new", "Create new after existing", "Exit"]
+            choices = [i[:size[0] - 6].replace("\n", "\\n") for i in arr] + ["Create new", "Create new after existing", "Exit"]
             title = 'Choose an element or action. '
               
             selected = menu.show(title, choices, position=last_selected)
@@ -329,7 +329,7 @@ class Recipie:
             # If user selectes "Create after"
             elif choice == len(arr)+1:
                 size = utils.get_size()
-                choices = [i[:size[0] - 6] for i in arr] + ["Exit"]
+                choices = [i[:size[0] - 6].replace("\n", "\\n") for i in arr] + ["Exit"]
                 title = 'Where do you want the element (after selected element)'
                   
                 selected = menu.show(title, choices)
