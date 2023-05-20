@@ -21,6 +21,7 @@ Also take a look at our discord community
   * [Tomato Soup](https://github.com/logicguy1/The-Cookbook/blob/main/Starters/Tomato%20Soup/README.md)
 * Main courses
   * [Lasagna ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Lasagna)
+  * [Veggie Lasanga 🌱](https://github.com/logicguy1/The-Cookbook/blob/main/Main_courses/veggie_lasanga)
   * [Pariserbøf ( Parisian Steak ) ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pariser%20b%C3%B8f%20(%20Parisian%20steak%20))
   * [Pita Bread with Fallafel 🌱 ](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pita%20bread%20with%20falafel)
   * [Tuna Quiche](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Tuna%20Quiche)
