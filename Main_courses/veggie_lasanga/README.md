@@ -1,6 +1,6 @@
 # Veggie Lasanga
 <p align="center">
-<img src="example.png" />
+<img src="IMG_4435.jpg" />
 </p>
 
 Preparation: 30 - 60 minutes depending on cut speed  
