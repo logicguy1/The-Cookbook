@@ -28,7 +28,7 @@ Also take a look at our discord community
   * [Omurice](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Omurice)
   * [Egg Fried Rice](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Egg%20Fried%20Rice)
   * [Pasta Meatsauce](https://github.com/logicguy1/The-Cookbook/tree/main/Main_courses/Pasta%20Meatsauce)
-  * [Bean taco filling](https://github.com/logicguy1/The-Cookbook/blob/main/Main_courses/Bean%20taco%20filling)
+  * [Bean taco filling 🌱 ](https://github.com/logicguy1/The-Cookbook/blob/main/Main_courses/Bean%20taco%20filling)
 * Drinks
   * [Piña Colada](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Pina_Colada)
   * [Virgin Sunrise](https://github.com/logicguy1/The-Cookbook/tree/main/Drinks/Virgin_Sunrise)
