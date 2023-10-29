@@ -32,7 +32,7 @@ Author:
 * 3 eggs
 * Two tsp cumin
 * Rasp
-* Your cooking oil of preferance (preferably not olive oil)
+* Your cooking oil of preferance (preferably not olive oil), for frying the falafels make sure to have a good amount on hand
 
 ## Materials
 * Hlender or a stick blender
@@ -68,7 +68,7 @@ Author:
 5. Blend the mix eather using a stick blender or a normal blender
 6. If the mix is wet you can add some rasp, it should be able to be formed into small balls without beeing too sticky
 7. Take out the pan pour about 1 - 1½ cm of oil
-8. Form the fallafels into small balls and put them on the hot pan, they are done when they are brown on all sides
+8. Form the fallafels into small balls and put them on the hot pan, they are done when they are brown on all sides, it is a good idea to cool the dough before putting it on the pan so it shapes better and holds it structure, also make sure not to overcrowd the pan and start with a small batch to make sure the dough is good.
 9. Once the fallafels are done put them on the paiper towls to remove some of the oil
 
 ### Step 4 Baking The Bread
@@ -82,3 +82,18 @@ A well tasting meal for the whole famely and a bit dosent get much better than a
 
 ## Descussion
 You could of cause add diffrent toppings tho i find it very fitting with the basic structre of the bread
+
+### Gluten free Pita Bread
+- 200 ml water
+- 10 grams yeast
+- 1 tsp sugar
+- 160 gram rice flour
+- 80 gram potato flour
+- 2 tsp yellow psyllium husk
+- ½ tsp salt
+- 2 tsp olive oil
+
+1. Mix the water yeast and suger, make sure the yeast desolves. It helps if the water is ligithly warm.
+2. In a boal mix all the dry ingredeents, once combined add the yeast mixture and oil.
+3. Mix the dought, knead it and let it rise for an hour to two hours.
+4. Cook the pitas the same as in the origional recipe
