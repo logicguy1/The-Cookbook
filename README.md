@@ -11,7 +11,7 @@
 </p>
 The open source cook book<br/>
 Also take a look at our discord community
-<a href="https://discord.gg/ZBpscUpNF4">here</a>
+<a href="https://discord.gg/mezbegx4hJ">here</a>
 
 ## Table of Contents
 * Bread
