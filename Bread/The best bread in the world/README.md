@@ -32,5 +32,6 @@ Author:
 ## Conclusion
 The best bread in the world is eazy to make and tastes great, it's great as a side dish with a good steak or as a lunch bread with toppings
 
-## Descussion
-You can add alot to the bread, we tried adding 50% rough flour and the bread did not rise properbly. So we recommend only adding up to 20 - 30% max. You can also add seeds such as flaxseed or sunflower seeds
+## Discussion
+You can add alot to the bread, we tried adding 50% rye flour and the bread did not rise properbly. So we recommend only adding up to 20 - 30% max. You can also add seeds such as flaxseed or sunflower seeds
+It is worth noting that if you add more rye flour that your bread can take as long as 24 hours to rise given that the yeast needs more time to convert the sugars :)
